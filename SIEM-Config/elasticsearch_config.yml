@@ -1,0 +1,12 @@
+# Elasticsearch lab configuration for SOC Analyst project
+
+cluster.name: soc-analyst-cluster
+node.name: soc-analyst-node-1
+path.data: /var/lib/elasticsearch
+path.logs: /var/log/elasticsearch
+network.host: 0.0.0.0
+http.port: 9200
+discovery.type: single-node
+
+# Lab-friendly defaults. Enable and configure security for production use.
+xpack.security.enabled: false

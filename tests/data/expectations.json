@@ -1,0 +1,5 @@
+{
+  "Sigma-Rules/brute_force.yml": ["evt-1"],
+  "Sigma-Rules/process_injection.yml": ["evt-2"],
+  "Sigma-Rules/suspicious_dns_queries.yml": ["evt-3"]
+}

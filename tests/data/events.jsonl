@@ -1,0 +1,4 @@
+{"id":"evt-1","EventID":4625,"AccountName":"admin","TargetUserName":"admin","FailureReason":"Unknown user name or bad password","message":"Failed password for admin from 192.168.1.101 port 22 ssh2"}
+{"id":"evt-2","CommandLine":"powershell.exe -NoProfile -EncodedCommand AAAA inject_simulation_marker","ParentImage":"C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe","message":"Suspicious encoded command execution"}
+{"id":"evt-3","QueryName":"evil-control.xyz","SourceIP":"10.0.0.25","message":"dns query evil-control.xyz"}
+{"id":"evt-4","EventID":4624,"AccountName":"admin","message":"Successful login for admin"}
